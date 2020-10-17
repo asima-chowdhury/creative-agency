@@ -1,0 +1,15 @@
+.carousel-work{
+    background-color:  #111430;
+}
+.slick-dots li.slick-active button:before{
+    font-size: 20px!important;
+    color: #FBD062!important;
+}
+.slick-dots li button:before{
+    font-size: 20px!important;
+    color:  #5c63a7!important;
+}
+.slick-dots{
+    background-color:  #111430;
+    padding-bottom: 20px!important;
+}

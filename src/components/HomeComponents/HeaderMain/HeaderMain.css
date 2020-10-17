@@ -1,0 +1,8 @@
+.header-main{
+    background-color: #FBD062;
+    height: 90vh;
+    clip-path: polygon(0 0, 100% 0, 100% 80% ,0 100%);
+}
+.header-main h1{
+    font-weight:700;
+}

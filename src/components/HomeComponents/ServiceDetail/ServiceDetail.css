@@ -1,0 +1,9 @@
+.serviceDetail{
+    transition:.5s;
+}
+.serviceDetail:hover{
+    box-shadow:0 0 10px 10px #ddd;
+    background-color: #cff3c9;    
+    transform: translateY(-10px);
+    transition: .5s ease-in-out;
+}

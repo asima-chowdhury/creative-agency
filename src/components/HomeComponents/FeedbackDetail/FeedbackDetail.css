@@ -1,0 +1,15 @@
+.feedbackDetail{
+    border: 1px solid #ddd;
+    transition:.5s;
+}
+.feedbackDetail:hover{
+    border: 1px solid #7AB259;
+    box-shadow:0 0 10px 10px #ddd
+}
+.feedbackDetail h6,.feedbackDetail p{
+    margin:0!important;
+}
+.feedbackDetail-text{
+    line-height: 24px;
+    font-size: 15px;
+}

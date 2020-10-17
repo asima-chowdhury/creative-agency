@@ -1,0 +1,16 @@
+.service-container .card{
+    border-color: transparent;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.service-container .card .card-header{
+    background: transparent;
+    border: 0;
+}
+.service-container .card .card-text{
+    line-height: 24px;
+    font-size: 15px;
+}
+.service-card .service-button{
+    padding:0 20px!important;
+}

@@ -1,0 +1,27 @@
+.login-box{
+    padding:10% 0;
+    margin:7% auto;
+    background-color: #fff;
+    border-radius:5px;
+    border:1px solid #bebebe;
+}
+.login-box img{
+    height: 25px;
+    width: 25px;
+    float: left;
+}
+.login-box button{
+    width:100%;
+    padding:10px 30px;
+    border:1px solid #ddd;
+    border-radius:50px;
+    transition: all .5s ease-in-out;
+}
+.login-box button:hover{
+    border:1px solid #c5c5c5;
+    background-color:#c5c5c5;
+}
+.center-logo{
+    width:150px;
+    height: 60px;
+}

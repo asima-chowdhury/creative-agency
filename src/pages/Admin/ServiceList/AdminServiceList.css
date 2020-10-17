@@ -1,0 +1,33 @@
+.admin-body{
+    background-color: #ddd;
+}
+.admin-table{
+    background-color: #fff;
+    width: 95%!important;
+    margin: 0 auto;
+}
+.admin-table thead{
+    background-color: #dee2e6!important;
+}
+.side-nav .admin-navLink{
+    color:#000;
+    text-decoration:none;
+}
+.side-nav .admin-navLink:hover{
+    color:#007bff;
+    text-decoration:none;
+}
+.admin-navLink img{
+    width:20px;
+    height:20px;
+    margin-right: 3%;
+}
+.delete-icon{
+    padding:5px;
+    background-color: red;
+    border: none;
+}
+.trash-icon{
+    width:20px;
+    height:20px;
+}
