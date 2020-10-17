@@ -5,7 +5,7 @@ import loading from '../../../images/loading.gif'
 const HomeServices = () => {
     const [serviceData, setServiceData] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/services')
+        fetch('https://sheltered-plateau-76755.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setServiceData(data))
     }, [])

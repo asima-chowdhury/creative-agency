@@ -27,7 +27,7 @@ const Review = () => {
 
         formData.image = loggedInUser.photoURL;
 
-        fetch('http://localhost:5000/addReview', {
+        fetch('https://sheltered-plateau-76755.herokuapp.com/addReview', {
             method: 'POST',
             body: formData
         })

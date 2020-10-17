@@ -8,7 +8,7 @@ const Dashboard = () => {
     const [userDetect, setUserDetect] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/showAllAdmin')
+        fetch('https://sheltered-plateau-76755.herokuapp.com/showAllAdmin')
             .then(res => res.json())
             .then(data => {
                 setUserDetect(data)

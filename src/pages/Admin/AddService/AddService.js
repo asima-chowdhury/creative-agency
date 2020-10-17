@@ -29,7 +29,7 @@ const AddService = () => {
         formData.append('title', addServiceInfo.title)
         formData.append('description', addServiceInfo.description)
 
-        fetch('http://localhost:5000/addService', {
+        fetch('https://sheltered-plateau-76755.herokuapp.com/addService', {
             method: 'POST',
             body: formData
         })
