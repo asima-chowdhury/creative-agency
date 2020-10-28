@@ -5,6 +5,7 @@
  * A client can sign in with Google
  * A client can order for a service which will save in a database
  * A client can also check their ordered list and current status in their dashboard
+ * Here authenticated admin panel is available
  * An admin can see orders in the admin dashboard and mark them if it’s done or pending or ongoing
  * A client can write a review which will be visible in the feedback section
  * An admin can add a new service from the dashboard which will be visible in the services
