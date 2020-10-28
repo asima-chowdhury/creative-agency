@@ -1,6 +1,5 @@
 # Creative Agency
 ---
-
 ## Features:
  * Built a MERN stack web application with a dynamic service section and feedback section
  * A client can sign in with Google
@@ -10,8 +9,7 @@
  * A client can write a review which will be visible in the feedback section
  * An admin can add a new service from the dashboard which will be visible in the services
 section so that a client can ask for that service
- * Admin can make a new admin by inserting email address
- 
+ * Admin can make a new admin by inserting email address 
 ## Technology Used: 
 * React.js
 * REST API
